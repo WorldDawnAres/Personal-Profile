@@ -1,4 +1,7 @@
-### Hi there 👋
+### hello everybody 👋
+🔭I’m currently working on server building and game production <br>
+🌱I’m currently learning network security and server maintenance <br>
+😄 Pronouns: be diligent and down-to-earth <br>
 
 <!--
 **ZhangTianqi6/ZhangTianqi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
